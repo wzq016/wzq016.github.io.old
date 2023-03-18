@@ -1,12 +1,12 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: Ph.D. in CS
       institution: University of Illinois Urbana-Champaign
       year: Present
       description:
         - Advisor Prof. Heng Ji
-    - title: B.E.
+    - title: B.E. in CS
       institution: Tsinghua University
       year: 2021
       description:
