@@ -67,11 +67,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: wzq016# your GitHub user name
-gitlab_username: ziqi-wang-0432621a7# your GitLab user name
+github_username: wzq016 # your GitHub user name
+gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: # your LinkedIn user name
+linkedin_username: ziqi-wang-0432621a7 # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: xYRZiZkAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
@@ -123,7 +123,7 @@ permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: false
 
 related_blog_posts:
   enabled: true
@@ -256,8 +256,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Wang]
+  first_name: [Ziqi, Z.]
 
   style: apa
   locale: en
